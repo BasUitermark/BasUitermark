@@ -7,24 +7,6 @@ src="https://img.shields.io/github/followers/BasUitermark?logo=github&style=for-
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/pr1mal_one/)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bas-uitermark-7851751a4/)
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://discordapp.com/channels/@me/Pr1mal#8174/">
-  <img align="left" alt="Bas's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.instagram.com/pr1mal_one/">
-  <img align="left" alt="Bas's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
-<a href="https://open.spotify.com/user/1182341298?si=0f9dc40408a3482e">
-  <img align="left" alt="Bas's Spotify" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" />
-</a>
-<a href="https://www.linkedin.com/in/bas-uitermark-7851751a4/">
-  <img align="left" alt="Bas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
-</h1>
-
 <p align='center'><em><b>“A journey will have pain and failure. It is not only the steps forward that we must accept. It is the stumbles. The trials. The knowledge that we will fail. That we will hurt those around us.
 
 <p align='center'><em><b>But if we stop, if we accept the person we are when we fail, the journey ends. That failure becomes our destination.”</b></em>
@@ -42,7 +24,7 @@ I'm 28 years old and currently studying at Codam Coding College in Amsterdam.
 
 Outside of coding I am a huge Audio Engineering nerd. Writing, producing, recording, mixing and mastering by myself and with others. Also getting into working with Arduino's and Raspberry Pi's.
 
-# 🛠 **&nbsp;languages and tools:** 
+# 🛠 **&nbsp;Languages and Tools:** 
 <i>Tools, languages, and other things that I like to work with.</i> 
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" alt="C" /></a>
@@ -54,11 +36,11 @@ Outside of coding I am a huge Audio Engineering nerd. Writing, producing, record
 <br>
 
 <p align='center'>
-  💻 &nbsp;My workspace<br/><br/>
+  💻 &nbsp;My Workspace<br/><br/>
   <img alt="os" src="https://img.shields.io/badge/Manjaro-LENOVO_Legion_5_Pro-0078D6?style=for-the-badge&logo=manjaro&logoColor=white" />
-  <img alt="soc" src="https://img.shields.io/badge/AMD_Ryzen_7_5800H_i5-0071C5?style=for-the-badge&logo=amd&logoColor=white" />
-  <img alt="ram" src="https://img.shields.io/badge/RAM-17GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-GTX3600-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img alt="soc" src="https://img.shields.io/badge/AMD_Ryzen_7_5800H-0071C5?style=for-the-badge&logo=amd&logoColor=white" />
+  <img alt="ram" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-GTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p align='center'>
@@ -79,7 +61,7 @@ Outside of coding I am a huge Audio Engineering nerd. Writing, producing, record
   
 ## Contribution Graph
   <br/>
-   <a href="https://github.com/BasUitermark"><img alt="Bas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BasUitermark&custom_title=Bass%20Uitermark's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/BasUitermark"><img alt="Bas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BasUitermark&custom_title=Bas%20Uitermark's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
