@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/BasUitermark?logo=github&style=for-
 
 Hi, I'm [Bas Uitermark](https://github.com/BasUitermark), a Music Engineering, problem solving enthusiast, gone Software Engineering. Taking care of issues and solving problems by intuitive and elegent solutions is my main workflow.
 
-I'm 28 years old and currently studying at Codam Coding College in Amsterdam.
+I'm 29 years old and currently studying at Codam Coding College in Amsterdam.
 
 Outside of coding I am a huge Audio Engineering nerd. Writing, producing, recording, mixing and mastering by myself and with others. Also getting into working with Arduino's and Raspberry Pi's.
 
