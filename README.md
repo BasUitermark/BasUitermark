@@ -4,15 +4,7 @@
 src="https://img.shields.io/github/followers/BasUitermark?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=Pr1mal&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.com/users/Pr1mal#8174)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/pr1mal_one/)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bas-uitermark-7851751a4/)
-
-<p align='center'><em><b>“A journey will have pain and failure. It is not only the steps forward that we must accept. It is the stumbles. The trials. The knowledge that we will fail. That we will hurt those around us.
-
-<p align='center'><em><b>But if we stop, if we accept the person we are when we fail, the journey ends. That failure becomes our destination.”</b></em>
-<br/>
- <em><b>- Dalinar Kholin in Oathbringer by Brandon Sanderson.</b></em>
-<br><br/>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Music%20Enthusiast;Cats;Always%20learning%20new%20things;Reading&center=true&width=500&height=50"></a>
