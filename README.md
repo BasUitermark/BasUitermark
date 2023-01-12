@@ -50,13 +50,11 @@ Outside of coding I am a huge Audio Engineering nerd. Writing, producing, record
 📈 &nbsp; My Github Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BasUitermark&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="BasUitermark" /></a> </p>
 
-![Bas's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasUitermark&show_icons=true&theme=github_dark)
-
 <a href="http://www.github.com/BasUitermark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BasUitermark&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
   
 ## Contribution Graph
   <br/>
-   <a href="https://github.com/BasUitermark"><img alt="Bas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BasUitermark&custom_title=Bas%20Uitermark's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/BasUitermark"><img alt="Bas's Activity Graph" src="https://github.com/BasUitermark/BasUitermark/blob/master/profile-3d-contrib/profile-green-animate.svg" /></a>
   <br/>
 
 <br/>
